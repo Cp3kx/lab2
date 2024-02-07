@@ -1,0 +1,19 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 4px 6px 4px 6px;
+    width: 100%;
+    height: 100vh;
+}
+.my-list{
+    background-color: #f7f381;
+    Padding: 8px 24px;
+    Width: 500px;
+    font-size: 30px;
+    border: 1px solid #f7f381;
+    box-shadow: 0 0 10px 2px #333333;
+    
+}
